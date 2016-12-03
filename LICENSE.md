@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) 2016 ledgerwatch
+
 Copyright (c) 1993-1995 UC Berkley
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
